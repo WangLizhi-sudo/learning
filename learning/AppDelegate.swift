@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  learning
-//
-//  Created by wanglizhi on 2026/3/13.
-//
-
 import UIKit
 
 @main
